@@ -55,7 +55,7 @@ CREATE TABLE courses(
   courses_code VARCHAR(100),
   courses_title VARCHAR(100),
   courses_numcreds INT,
-  );
+  ;
 
 
 
